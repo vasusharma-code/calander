@@ -42,7 +42,7 @@ Follow these steps to run the application locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/dynamic-event-calendar.git
+   git clone https://github.com/vasusharma-code/calander.git
 
 2. Navigate to the project directory:
    cd dynamic-event-calendar
@@ -57,7 +57,7 @@ The application should now be running on http://localhost:3000.
 
 
 Deployment
-The app has been deployed on Vercel (or Netlify). You can view the live app here:
+The app has been deployed on Vercel. You can view the live app here:
 
 Deployed App Link
 
