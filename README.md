@@ -59,8 +59,8 @@ The application should now be running on http://localhost:3000.
 Deployment
 The app has been deployed on Vercel. You can view the live app here:
 
-Deployed App Link
 
+https://calander-eight.vercel.app/
 
 Contributing
 Feel free to fork this repository and submit pull requests for any improvements or features you'd like to add!
